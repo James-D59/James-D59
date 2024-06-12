@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything although at this point I have little to contribute
 - 📫 How to reach me through GitHub
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a published fantasy and Sci-Fi writer
+- ⚡ Fun fact: I am a published fantasy author (https://a.co/d/0MOSBUK)
 
 <!---
 James-D59/James-D59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
