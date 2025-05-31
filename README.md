@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @James-D59
 - 👀 I’m interested in learning to code as a beginner in his 40's
-- 🌱 I’m currently learning fundamentals of Computer Science in general, C# and Python
+- 🌱 I’m currently learning fundamentals of Computer Science in general, with a plan to start with Python, moving to SQL and VB.NET (for work) and then some front end Javascript
 - 💞️ I’m looking to collaborate on anything although at this point I have little to contribute
 - 📫 How to reach me through GitHub
 - 😄 Pronouns: He/Him
